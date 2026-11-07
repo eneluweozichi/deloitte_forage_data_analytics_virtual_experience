@@ -1,5 +1,5 @@
-Daikibo Manufacturing: Machine Downtime Analysis Using Tableau
-Project Overview
+#Daikibo Manufacturing: Machine Downtime Analysis Using Tableau
+##Project Overview
 This project was completed as part of the Deloitte Data Analytics Virtual Job Simulation on Forage.
 
 The project involved analysing machine telemetry data collected from Daikibo, a manufacturing company operating four factories across Japan, Germany and China.
