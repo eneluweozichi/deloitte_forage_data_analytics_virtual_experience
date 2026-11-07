@@ -1,6 +1,7 @@
 **Daikibo Manufacturing: Machine Downtime Analysis Using Tableau**
 
 **Project Overview**
+
 This project was completed as part of the Deloitte Data Analytics Virtual Job Simulation on Forage.
 
 The project involved analysing machine telemetry data collected from Daikibo, a manufacturing company operating four factories across Japan, Germany and China.
@@ -10,6 +11,7 @@ The objective was to investigate machine downtime across the manufacturing facil
 Tableau was used to transform the raw telemetry data into interactive visualizations to support operational decision-making.
 
 **Business Problem**
+
 Daikibo collected machine telemetry data from its four manufacturing facilities over May 2021. The company wanted to gain insights into equipment performance and identify potential operational inefficiencies.
 
 The analysis was designed to answer two key business questions:
@@ -18,6 +20,7 @@ The analysis was designed to answer two key business questions:
 2. Which machine type experienced the highest downtime within that factory?
 
 **Dataset Overview**
+
 The dataset was provided as a compressed JSON file and contained approximately 10,000 records across 11 columns.
 
 Key variables included:
@@ -38,10 +41,12 @@ Data source: Deloitte Forage – Daikibo Telemetry Dataset.
 Data format: JSON (ZIP archive).
 
 **Tools and Technologies**
+
 Tableau – Data visualization and interactive dashboard development.
 Calculated Fields – Data transformation and downtime measurement.
 
 **Data Preparation and Transformation**
+
 The original JSON file was extracted from its ZIP archive and imported into Tableau.
 
 A calculated field named Unhealthy was created to convert machine operational status into a numerical downtime measure.
@@ -57,6 +62,7 @@ Each unhealthy telemetry status was assigned a value of 10, representing 10 minu
 This transformation made it possible to aggregate potential downtime across factories and machine types.
 
 **Data Visualization and Dashboard Development**
+
 Two bar charts were developed:
 
 1. **Downtime Per Factory**
@@ -70,6 +76,7 @@ The factory chart was configured as a dashboard filter. Selecting a factory dyna
 This interactivity enabled a more focused investigation of machine performance.
 
 **Key Findings**
+
 The analysis identified Daikibo Factory Seiko in Osaka, Japan, as the facility with the highest accumulated downtime.
 
 After selecting this factory using the dashboard filter, the machine-type visualization identified LaserWelder as the machine type with the highest accumulated downtime.
@@ -82,6 +89,7 @@ Highest downtime machine type: LaserWelder
 Accumulated downtime: 480 minutes (8 hours)
 
 **Business Recommendation**
+
 Daikibo should prioritize investigating the LaserWelder machines at its Seiko facility.
 
 Further equipment inspections and maintenance assessments could help identify the causes of repeated unhealthy machine statuses and reduce potential production interruptions.
@@ -89,6 +97,7 @@ Further equipment inspections and maintenance assessments could help identify th
 The findings can also support preventive maintenance planning and more effective allocation of maintenance resources.
 
 **Skills Demonstrated**
+
 Data exploration
 JSON data importation
 Tableau calculated fields
@@ -99,6 +108,7 @@ Business problem-solving
 Analytical interpretation and reporting
 
 **Project Deliverable**
+
 An interactive Tableau dashboard comparing factory downtime and machine-type downtime.
 
 The dashboard enabled factory-level filtering to identify the machine type contributing most to downtime within the highest-downtime facility.
