@@ -26,16 +26,27 @@ The dataset was provided as a compressed JSON file and contained approximately 1
 Key variables included:
 
 Area
+
 City
+
 Country
+
 Device ID
+
 Device Type
+
 Document Index
+
 Factory
+
 Section
+
 Status
+
 Temperature
+
 Timestamp
+
 Data source: Deloitte Forage – Daikibo Telemetry Dataset.
 
 Data format: JSON (ZIP archive).
@@ -43,6 +54,7 @@ Data format: JSON (ZIP archive).
 **Tools and Technologies**
 
 Tableau – Data visualization and interactive dashboard development.
+
 Calculated Fields – Data transformation and downtime measurement.
 
 **Data Preparation and Transformation**
@@ -85,8 +97,11 @@ After selecting this factory using the dashboard filter, the machine-type visual
 **Key result:**
 
 Factory: Daikibo Factory Seiko
+
 Location: Osaka, Japan
+
 Highest downtime machine type: LaserWelder
+
 Accumulated downtime: 480 minutes (8 hours)
 
 **Business Recommendation**
