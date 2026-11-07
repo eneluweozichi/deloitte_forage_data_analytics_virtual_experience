@@ -94,7 +94,7 @@ This interactivity enabled a more focused investigation of machine performance.
 ![Overall Downtime Dashboard](https://github.com/eneluweozichi/deloitte_forage_data_analytics_virtual_experience/blob/main/Dashboard/Daikibo_Downtime_Dashboard.png?raw=true)
 
 ### Seiko Factory Filtered Analysis
-![Seiko Factory Filtered Dashboard](./Dashboard/Seiko_Filtered_Downtime.png)
+![Seiko Factory Filtered Dashboard](https://github.com/eneluweozichi/deloitte_forage_data_analytics_virtual_experience/blob/main/Dashboard/Seiko_Filtered_Downtime.png?raw=true)
 
 **Key Findings**
 
