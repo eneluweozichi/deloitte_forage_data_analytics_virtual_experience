@@ -57,6 +57,7 @@ IF [Status] = "Unhealthy"
 THEN 10
 ELSE 0
 END
+
 Each unhealthy telemetry status was assigned a value of 10, representing 10 minutes of potential downtime, while healthy statuses were assigned zero.
 
 This transformation made it possible to aggregate potential downtime across factories and machine types.
@@ -99,12 +100,19 @@ The findings can also support preventive maintenance planning and more effective
 **Skills Demonstrated**
 
 Data exploration
+
 JSON data importation
+
 Tableau calculated fields
+
 Data transformation
+
 Data visualization
+
 Interactive dashboard development
+
 Business problem-solving
+
 Analytical interpretation and reporting
 
 **Project Deliverable**
