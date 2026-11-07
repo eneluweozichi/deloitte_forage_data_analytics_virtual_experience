@@ -91,10 +91,10 @@ This interactivity enabled a more focused investigation of machine performance.
 ## Dashboard Preview
 
 ### Overall Downtime Analysis
-![Overall Downtime Dashboard](Dashboard/Daikibo_Downtime_Dashboard.png)
+![Overall Downtime Dashboard](./Dashboard/Daikibo_Downtime_Dashboard.png)
 
 ### Seiko Factory Filtered Analysis
-![Seiko Factory Filtered Dashboard](Dashboard/Seiko_Filtered_Downtime.png)
+![Seiko Factory Filtered Dashboard](./Dashboard/Seiko_Filtered_Downtime.png)
 
 **Key Findings**
 
