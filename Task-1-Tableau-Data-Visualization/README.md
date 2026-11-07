@@ -1,4 +1,4 @@
-**Daikibo Manufacturing: Machine Downtime Analysis Using Tableau**
+### Daikibo Manufacturing: Machine Downtime Analysis Using Tableau
 
 **Project Overview**
 
@@ -88,8 +88,13 @@ The factory chart was configured as a dashboard filter. Selecting a factory dyna
 
 This interactivity enabled a more focused investigation of machine performance.
 
-### Dashboard Preview
-![Daikibo Downtime Analysis Dashboard] (Dashboard/Daikibo_Douwntime_Dashboard.png)
+## Dashboard Preview
+
+### Overall Downtime Analysis
+![Overall Downtime Dashboard](Dashboard/Daikibo_Downtime_Dashboard.png)
+
+### Seiko Factory Filtered Analysis
+![Seiko Factory Filtered Dashboard](Dashboard/Seiko_Filtered_Downtime.png)
 
 **Key Findings**
 
