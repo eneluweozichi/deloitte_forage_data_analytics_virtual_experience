@@ -88,6 +88,9 @@ The factory chart was configured as a dashboard filter. Selecting a factory dyna
 
 This interactivity enabled a more focused investigation of machine performance.
 
+### Dashboard Preview
+![Daikibo Downtime Analysis Dashboard] (Dashboard/Daikibo_Douwntime_Dashboard.png)
+
 **Key Findings**
 
 The analysis identified Daikibo Factory Seiko in Osaka, Japan, as the facility with the highest accumulated downtime.
