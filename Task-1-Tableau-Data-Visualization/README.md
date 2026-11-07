@@ -47,9 +47,9 @@ Temperature
 
 Timestamp
 
-Data source: Deloitte Forage – Daikibo Telemetry Dataset.
+**Data source**: Deloitte Forage – Daikibo Telemetry Dataset.
 
-Data format: JSON (ZIP archive).
+**Data format**: JSON (ZIP archive).
 
 **Tools and Technologies**
 
