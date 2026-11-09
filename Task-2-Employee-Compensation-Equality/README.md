@@ -43,6 +43,18 @@ I organized the information into a structured Excel table and created an additio
 
 Using a nested IF formula combined with OR and AND logical functions, I classified the equality scores into three categories:
 
+### Project Screenshots
+
+#### 1. Initial Dataset (Partial Screenshot)
+
+![Initial Dataset](Initial_Equality_Dataset.png)
+
+#### 2. Completed Equality Analysis (Partial Screenshot)
+
+![Completed Analysis](Completed_Equality_Analysis.png)
+
+*Note: Screenshots show selected portions of the Excel worksheet. The analysis was performed on the complete dataset.*
+
 | Equality Score | Classification |
 |---|---|
 | -10 to +10 | Fair |
