@@ -20,13 +20,10 @@ The objective was to classify the equality scores into meaningful categories to 
 The raw dataset was provided in an Excel format and contained approximately 37 rows with 3 columns. 1 extra calculated column was added resulting to 4 coolumns
 The dataset contained the following fields:
 
-Column
+| Column | Description
+|---: |
 
-Description
-
-Factory
-
-Manufacturing location
+| Factory | Manufacturing location
 
 Job Role
 
