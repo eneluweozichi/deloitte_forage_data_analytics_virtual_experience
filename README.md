@@ -69,16 +69,16 @@ Through this project, I strengthened my practical understanding of:
 - Business Problem-Solving
 - Data Communication
 
+### Certificate of Completion
+
+Successfully completed the Deloitte Data Analytics Virtual Job Simulation on Forage.
+[View Certificate](./Certification/Deloitte_Forage_Job_Simulation_Certificate)
+
 **💡 Key Learning Outcomes**
 
 This experience reinforced the importance of approaching business problems analytically, identifying patterns within datasets, and communicating findings in a way that supports informed decision-making.
 
 It also provided an opportunity to strengthen my practical skills in Excel and Tableau while documenting my analytical work professionally.
-
-### Certificate of Completion
-
-Successfully completed the Deloitte Data Analytics Virtual Job Simulation on Forage.
-[View Certificate](./Certification/Deloitte Job Simulation Certificate)
 
 ### 👩‍💻 Author
 **Ozichi Eneluwe**
