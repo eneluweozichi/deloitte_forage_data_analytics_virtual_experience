@@ -75,6 +75,11 @@ This experience reinforced the importance of approaching business problems analy
 
 It also provided an opportunity to strengthen my practical skills in Excel and Tableau while documenting my analytical work professionally.
 
+### Certificate of Completion
+
+Successfully completed the Deloitte Data Analytics Virtual Job Simulation on Forage.
+[View Certificate](./Certification/Deloitte Job Simulation Certificate)
+
 ### 👩‍💻 Author
 **Ozichi Eneluwe**
 
